@@ -13,7 +13,5 @@ Technologies Used:
 
 Libraries: Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow/Keras
 Algorithms: Stacked LSTM, Data Normalization, Time Series Analysis
-Project Link:
-GitHub Repository (Include a direct link to your project if available)
 
 This project demonstrates my ability to apply advanced machine learning techniques to real-world financial data, showcasing my skills in data analysis, model development, and data visualization.
